@@ -280,7 +280,7 @@ function renderFeed() {
                href="${destination}"
                target="_blank"
                rel="noopener noreferrer">
-              Visit destination ↗
+              Pop in ↗
             </a>
           </div>
 
